@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SimpleAnimation</string>
+    <string name="textview">TextView</string>
+</resources>

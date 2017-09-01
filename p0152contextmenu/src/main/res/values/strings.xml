@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ContextMenu</string>
+    <string name="itemred">ItemRed</string>
+    <string name="itemgreen">ItemGreen</string>
+    <string name="itemblue">ItemBlue</string>
+    <string name="item22">Item22</string>
+    <string name="item26">Item26</string>
+    <string name="item30">Item30</string>
+</resources>

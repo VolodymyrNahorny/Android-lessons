@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Activitylistener</string>
+    <string name="some_text">Some text</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="test">test</string>
+</resources>

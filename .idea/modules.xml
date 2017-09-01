@@ -6,6 +6,30 @@
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/p0031firstproject/p0031firstproject.iml" filepath="$PROJECT_DIR$/p0031firstproject/p0031firstproject.iml" />
       <module fileurl="file://$PROJECT_DIR$/p0041basicviews/p0041basicviews.iml" filepath="$PROJECT_DIR$/p0041basicviews/p0041basicviews.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0051layoutfiles/p0051layoutfiles.iml" filepath="$PROJECT_DIR$/p0051layoutfiles/p0051layoutfiles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0061layouts/p0061layouts.iml" filepath="$PROJECT_DIR$/p0061layouts/p0061layouts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0071layoutprop/p0071layoutprop.iml" filepath="$PROJECT_DIR$/p0071layoutprop/p0071layoutprop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0081viewbyid/p0081viewbyid.iml" filepath="$PROJECT_DIR$/p0081viewbyid/p0081viewbyid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0091onclickbuttons/p0091onclickbuttons.iml" filepath="$PROJECT_DIR$/p0091onclickbuttons/p0091onclickbuttons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0101listener/p0101listener.iml" filepath="$PROJECT_DIR$/p0101listener/p0101listener.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0102ActivityListener/p0102ActivityListener.iml" filepath="$PROJECT_DIR$/p0102ActivityListener/p0102ActivityListener.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0111resvalues/p0111resvalues.iml" filepath="$PROJECT_DIR$/p0111resvalues/p0111resvalues.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0121logandmess/p0121logandmess.iml" filepath="$PROJECT_DIR$/p0121logandmess/p0121logandmess.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0131simplemenu/p0131simplemenu.iml" filepath="$PROJECT_DIR$/p0131simplemenu/p0131simplemenu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0141advancedmenu/p0141advancedmenu.iml" filepath="$PROJECT_DIR$/p0141advancedmenu/p0141advancedmenu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0151contextmenu/p0151contextmenu.iml" filepath="$PROJECT_DIR$/p0151contextmenu/p0151contextmenu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0152contextmenu/p0152contextmenu.iml" filepath="$PROJECT_DIR$/p0152contextmenu/p0152contextmenu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0161dynamiclayout/p0161dynamiclayout.iml" filepath="$PROJECT_DIR$/p0161dynamiclayout/p0161dynamiclayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0171dynamiclayout2/p0171dynamiclayout2.iml" filepath="$PROJECT_DIR$/p0171dynamiclayout2/p0171dynamiclayout2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0181dynamiclayout3/p0181dynamiclayout3.iml" filepath="$PROJECT_DIR$/p0181dynamiclayout3/p0181dynamiclayout3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0191calculator/p0191calculator.iml" filepath="$PROJECT_DIR$/p0191calculator/p0191calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0201simpleanimation/p0201simpleanimation.iml" filepath="$PROJECT_DIR$/p0201simpleanimation/p0201simpleanimation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0211twoactivity/p0211twoactivity.iml" filepath="$PROJECT_DIR$/p0211twoactivity/p0211twoactivity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0221intentteory/p0221intentteory.iml" filepath="$PROJECT_DIR$/p0221intentteory/p0221intentteory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0231oneactivitystate/p0231oneactivitystate.iml" filepath="$PROJECT_DIR$/p0231oneactivitystate/p0231oneactivitystate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0241twoactivitystate/p0241twoactivitystate.iml" filepath="$PROJECT_DIR$/p0241twoactivitystate/p0241twoactivitystate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0251tasktheory/p0251tasktheory.iml" filepath="$PROJECT_DIR$/p0251tasktheory/p0251tasktheory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0261intentfilter/p0261intentfilter.iml" filepath="$PROJECT_DIR$/p0261intentfilter/p0261intentfilter.iml" />
       <module fileurl="file://$PROJECT_DIR$/p1801constraintlayout/p1801constraintlayout.iml" filepath="$PROJECT_DIR$/p1801constraintlayout/p1801constraintlayout.iml" />
     </modules>
   </component>

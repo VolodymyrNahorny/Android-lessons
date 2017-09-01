@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ResValues</string>
+    <string name="hello">hop hey lalalei</string>
+    <string name="testString">TestString value from resources</string>
+</resources>

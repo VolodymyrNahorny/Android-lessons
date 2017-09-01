@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:id="@+id/group1">
+        <item
+            android:id="@+id/cr1"
+            android:title="@string/itemred" />
+        <item
+            android:id="@+id/cg1"
+            android:title="@string/itemgreen" />
+        <item
+            android:id="@+id/cb1"
+            android:title="@string/itemblue" />
+    </group>
+    <group android:id="@+id/group2">
+        <item
+            android:id="@+id/s221"
+            android:title="@string/item22" />
+        <item
+            android:id="@+id/s261"
+            android:title="@string/item26" />
+        <item
+            android:id="@+id/s301"
+            android:title="@string/item30" />
+    </group>
+</menu>

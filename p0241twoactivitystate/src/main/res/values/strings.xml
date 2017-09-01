@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TwoActivityState</string>
+    <string name="hello">hello</string>
+    <string name="two">Second activity</string>
+    <string name="button">Button</string>
+    <string name="this_is_activity_two">This is Activity Two</string>
+</resources>

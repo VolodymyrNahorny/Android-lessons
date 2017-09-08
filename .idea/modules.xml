@@ -30,6 +30,14 @@
       <module fileurl="file://$PROJECT_DIR$/p0241twoactivitystate/p0241twoactivitystate.iml" filepath="$PROJECT_DIR$/p0241twoactivitystate/p0241twoactivitystate.iml" />
       <module fileurl="file://$PROJECT_DIR$/p0251tasktheory/p0251tasktheory.iml" filepath="$PROJECT_DIR$/p0251tasktheory/p0251tasktheory.iml" />
       <module fileurl="file://$PROJECT_DIR$/p0261intentfilter/p0261intentfilter.iml" filepath="$PROJECT_DIR$/p0261intentfilter/p0261intentfilter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0271getintentaction/p0271getintentaction.iml" filepath="$PROJECT_DIR$/p0271getintentaction/p0271getintentaction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0281intentextras/p0281intentextras.iml" filepath="$PROJECT_DIR$/p0281intentextras/p0281intentextras.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0291simpleactivityresult/p0291simpleactivityresult.iml" filepath="$PROJECT_DIR$/p0291simpleactivityresult/p0291simpleactivityresult.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0301activityresult/p0301activityresult.iml" filepath="$PROJECT_DIR$/p0301activityresult/p0301activityresult.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0311simpleintents/p0311simpleintents.iml" filepath="$PROJECT_DIR$/p0311simpleintents/p0311simpleintents.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0321simplebrowser/p0321simplebrowser.iml" filepath="$PROJECT_DIR$/p0321simplebrowser/p0321simplebrowser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0331sharedpreferences/p0331sharedpreferences.iml" filepath="$PROJECT_DIR$/p0331sharedpreferences/p0331sharedpreferences.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p0341simplesqlite/p0341simplesqlite.iml" filepath="$PROJECT_DIR$/p0341simplesqlite/p0341simplesqlite.iml" />
       <module fileurl="file://$PROJECT_DIR$/p1801constraintlayout/p1801constraintlayout.iml" filepath="$PROJECT_DIR$/p1801constraintlayout/p1801constraintlayout.iml" />
     </modules>
   </component>
